@@ -1,0 +1,8 @@
+Driver:
+  WaitTimeBeforeAction: 0.3
+  AutoWaitTimeout: 3.0
+  MinSimilarity: 0.95
+  CanHighlight: true
+  HighlightTime: 1.0
+  ClickDelay: 0.0
+  MoveMouseDelay: 0.1
